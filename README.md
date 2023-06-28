@@ -1,13 +1,16 @@
-<h1 align="center">👋 Clone do Home-Page Google</h1>
----
+<h1 align="center">Clone do Google -  tela de Início </h1>
 
-<img src=".github/clone-google.png" alt=""></div>
+<br>
 
 ## Tecnologias Usadas
-- Javascript
-- HTML
-- CSS
 
+- HTML e CSS
+- JavaScript
+- Git e GitHub
 
-## Lincença
-Este projeto está sob a licença [MIT](./LICENSE).
+## Licença
+
+Esse projeto está sob a licença MIT.
+
+Projeto desenvolvido por André Higino Carioca 🧑‍💻 💚
+
